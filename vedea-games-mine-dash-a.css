@@ -77,6 +77,14 @@
   padding-bottom: var(--dl-space-space-twounits);
   justify-content: center;
 }
+.vedea-games-mine-dash-a-container1 {
+  gap: var(--dl-space-space-fourunits);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
 .vedea-games-mine-dash-a-image3 {
   flex: 0;
   width: auto;
@@ -93,7 +101,16 @@
   height: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
+.vedea-games-mine-dash-a-container2 {
+  gap: var(--dl-space-space-fourunits);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
 .vedea-games-mine-dash-a-image6 {
+  flex: 0;
   width: auto;
   height: var(--dl-size-size-xlarge);
   object-fit: cover;
