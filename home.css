@@ -228,6 +228,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.home-navlink01 {
+  display: contents;
+}
 .home-image06 {
   width: var(--dl-size-size-large);
   height: auto;
@@ -255,7 +258,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-navlink1 {
+.home-navlink02 {
   display: contents;
 }
 .home-image07 {
@@ -284,6 +287,9 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+}
+.home-navlink03 {
+  display: contents;
 }
 .home-image08 {
   width: var(--dl-size-size-large);
@@ -381,6 +387,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.home-navlink04 {
+  display: contents;
+}
 .home-image10 {
   width: var(--dl-size-size-large);
   height: auto;
@@ -388,6 +397,7 @@
   border-color: #ffffff;
   border-style: inset;
   border-width: 3px;
+  text-decoration: none;
 }
 .home-text17 {
   width: var(--dl-size-size-large);
@@ -405,6 +415,9 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+}
+.home-navlink05 {
+  display: contents;
 }
 .home-image11 {
   width: var(--dl-size-size-large);
@@ -431,6 +444,9 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+}
+.home-navlink06 {
+  display: contents;
 }
 .home-image12 {
   width: var(--dl-size-size-large);
@@ -459,6 +475,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.home-navlink07 {
+  display: contents;
+}
 .home-image13 {
   width: var(--dl-size-size-large);
   height: auto;
@@ -486,6 +505,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.home-navlink08 {
+  display: contents;
+}
 .home-image14 {
   width: var(--dl-size-size-large);
   height: auto;
@@ -512,6 +534,9 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+}
+.home-navlink09 {
+  display: contents;
 }
 .home-image15 {
   width: var(--dl-size-size-large);
@@ -609,6 +634,9 @@
   flex-direction: column;
   justify-content: center;
 }
+.home-navlink10 {
+  display: contents;
+}
 .home-image17 {
   width: var(--dl-size-size-large);
   height: auto;
@@ -616,6 +644,7 @@
   border-color: #ffffff;
   border-style: inset;
   border-width: 3px;
+  text-decoration: none;
 }
 .home-text27 {
   width: var(--dl-size-size-large);
@@ -634,6 +663,9 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+}
+.home-navlink11 {
+  display: contents;
 }
 .home-image18 {
   width: var(--dl-size-size-large);
