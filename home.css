@@ -651,7 +651,7 @@
   align-self: center;
   text-align: center;
 }
-@media(max-width: 320px) {
+@media(max-width: 800px) {
   .home-container {
     padding-left: var(--dl-space-space-halfunit);
     padding-right: var(--dl-space-space-halfunit);

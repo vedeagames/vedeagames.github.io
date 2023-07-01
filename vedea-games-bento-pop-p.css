@@ -115,7 +115,7 @@
   text-decoration: none;
   background-color: #fff68f;
 }
-@media(max-width: 320px) {
+@media(max-width: 800px) {
   .vedea-games-bento-pop-p-container {
     gap: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-halfunit);
